@@ -13,6 +13,7 @@ def get_model_name(args):
     return args
 
 
+
 if __name__ == "__main__":
 
     print("Number available CPU: {}".format(mp.cpu_count()))
